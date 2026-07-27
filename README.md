@@ -1,10 +1,14 @@
 # 🎮 AI Game Studio
 
-> **Generate complete Python Pygame games using a team of AI agents powered by CrewAI, Google Gemini, and Serper.**
+> **Generate complete Python Pygame games using a team of AI agents powered by CrewAI, Google OPENROUTER, and Serper.**
 
 AI Game Studio is a multi-agent AI application that transforms a simple game idea into a fully playable **Python Pygame game**. Instead of relying on a single AI model, it uses a specialized team of AI agents that collaborate to design, develop, and review the game before presenting the final output.
 
 ---
+
+## Live Demo
+
+**Application:** https://researchaiagent.onrender.com
 
 ## ✨ Features
 
@@ -115,7 +119,7 @@ AI-Game-Studio/
 ## AI & LLM
 
 - CrewAI
-- Google Gemini
+- OPENROUTER
 - Serper API
 
 ## Backend
@@ -166,7 +170,7 @@ pip install -r requirements.txt
 Create a `.env` file in the project root.
 
 ```env
-Google Gemini_API_KEY=YOUR_Google Gemini_API_KEY
+OPENROUTER_API_KEY=YOUR_OPENROUTER_API_KEY
 SERPER_API_KEY=YOUR_SERPER_API_KEY
 ```
 
@@ -299,8 +303,8 @@ Contributions are welcome!
 
 **Kiran Kumar Kandula**
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+- GitHub: https://github.com/chinna0425/AI-Game-Generator-Using-Crew.git
+- LinkedIn: https://www.linkedin.com/in/kirankumarkandula25/
 
 ---
 
@@ -315,7 +319,7 @@ It helps others discover the project and motivates future development.
 # 🙏 Acknowledgements
 
 - CrewAI
-- Google Gemini
+- OPENROUTER_API_KEY
 - Gradio
 - Pygame
 - Serper API
