@@ -8,7 +8,7 @@ AI Game Studio is a multi-agent AI application that transforms a simple game ide
 
 ## Live Demo
 
-**Application:** https://researchaiagent.onrender.com
+**Application:** https://ai-game-generator-using-crew.onrender.com
 
 ## ✨ Features
 
